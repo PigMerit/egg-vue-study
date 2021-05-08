@@ -1,0 +1,360 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js"
+  },
+  "vuessr": {
+    "layout": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+    "renderOptions": {
+      "basedir": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+      "runInNewContext": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js"
+    },
+    "injectRes": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+    "doctype": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "injectCss": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.local.js",
+    "injectJs": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "viewEngine": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+    "dir": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+    "encoding": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "env": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "level": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "outputJSON": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "buffer": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "appLogName": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "coreLogName": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "agentLogName": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "errorLogName": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+    "dir": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+    "maxAge": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+    "dynamic": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "keys": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+  "middleware": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+  "security": {
+    "csrf": {
+      "ignoreJSON": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+      "cookieName": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+      "sessionName": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+      "headerName": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "type": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "useSession": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "bodyName": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "queryName": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/config/config.default.js",
+      "value": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+    "protocolWhiteList": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+    "hsts": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.local.js",
+      "maxAge": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "value": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "value": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "policy": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "checkAddress": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    }
+  },
+  "view": {
+    "cache": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+    "root": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "defaultExtension": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-view-vue-ssr@3.3.3@egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+    "ignoreDirs": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+    "fastReady": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-development@2.7.0@egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+    "prefix": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js",
+    "staticHost": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js"
+  },
+  "webpack": "/Users/mac/Desktop/project/egg-vue-study/config/config.local.js",
+  "session": {
+    "maxAge": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "key": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "logValue": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js",
+      "development": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-watcher@3.1.1@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js",
+      "file": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fields": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "files": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "cors": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-cors@2.2.3@egg-cors/config/config.default.js",
+  "env": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "name": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "cookies": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "proxy": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "maxIpsCount": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "maxProxyCount": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "protocolHeaders": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "ipHeaders": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "hostHeaders": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "version": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "description": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "start": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "debug": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "clean": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "build": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "lint": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "fix": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "ii": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "changelog": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "cross-env": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-bin": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-cors": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-logger": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-scripts": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-validate": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "element-ui": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "extend": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "font-awesome": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "lodash": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "lodash-id": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "lowdb": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "mockjs": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "moment": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "shortid": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "showdown": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "simplemde": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vue": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vue-hot-reload-api": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vue-i18n": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vue-material-input": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vue-router": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vuex": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "vuex-router-sync": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@easy-team/easywebpack-cli": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "@easy-team/easywebpack-vue": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "babel-plugin-component": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-logview": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-webpack": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "eslint": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "eslint-plugin-vue": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "ip": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "node-sass": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "sass-loader": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "url": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "author": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "license": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "homepage": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "webpack": {
+      "loaders": {
+        "scss": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "HOME": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "rundir": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "notFound": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "sitefile": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "middlewares": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "httpClient": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "encoding": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "formLimit": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "jsonLimit": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "textLimit": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "strict": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "depth": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "parameterLimit": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "onerror": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "maxSockets": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "maxSockets": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "logging": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "serverTimeout": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "port": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+      "hostname": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js",
+    "responseTimeout": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/config/config.default.js"
+}

@@ -1,0 +1,12 @@
+2021-05-07 16:47:23,357 INFO 24337 [Timer] /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42156646ms at 2021-05-08 04:30:00.003
+2021-05-07 16:47:23,357 INFO 24337 [Timer] /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 25956643ms at 2021-05-08 00:00:00.000
+2021-05-07 16:47:23,358 INFO 24337 [Timer] /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25957643ms at 2021-05-08 00:00:01.001
+2021-05-07 16:47:23,219 INFO 24341 [egg-schedule]: register schedule /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-07 16:47:23,219 INFO 24341 [egg-schedule]: register schedule /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-07 16:47:23,219 INFO 24341 [egg-schedule]: register schedule /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2021-05-08 09:31:17,429 INFO 62910 [Timer] /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 68322573ms at 2021-05-09 04:30:00.002
+2021-05-08 09:31:17,430 INFO 62910 [Timer] /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 52122571ms at 2021-05-09 00:00:00.001
+2021-05-08 09:31:17,430 INFO 62910 [Timer] /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 52123570ms at 2021-05-09 00:00:01.000
+2021-05-08 09:31:17,268 INFO 62914 [egg-schedule]: register schedule /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2021-05-08 09:31:17,268 INFO 62914 [egg-schedule]: register schedule /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2021-05-08 09:31:17,268 INFO 62914 [egg-schedule]: register schedule /Users/mac/Desktop/project/egg-vue-study/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js

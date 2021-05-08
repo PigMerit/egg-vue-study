@@ -1,13 +1,14 @@
 <template>
 <div>
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div>在dev分支上做一些改动</div>
         <div class="container-fluid">
             <div class="navbar-header page-scroll">
                 <button type="button" @click="menuBtn" class="navbar-toggle" :class="{ 'collapsed': collapsed }" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span class="icon-bar">a</span>
+                    <span class="icon-bar">b</span>
+                    <span class="icon-bar">c</span>
                 </button>
                 <a class="navbar-brand" href="/">IBlog</a>
             </div>

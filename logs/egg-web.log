@@ -1,0 +1,26 @@
+2021-05-07 16:47:23,195 INFO 24341 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/project/egg-vue-study/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-study-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-05-07 16:47:23,220 INFO 24341 [egg-multipart] stream mode enable
+2021-05-07 16:47:23,311 INFO 24341 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/project/egg-vue-study/public
+2021-05-07 16:47:23,313 INFO 24341 [egg-security] use csrf middleware
+2021-05-07 16:47:23,313 INFO 24341 [egg-security] use methodnoallow middleware
+2021-05-07 16:47:23,314 INFO 24341 [egg-security] use noopen middleware
+2021-05-07 16:47:23,314 INFO 24341 [egg-security] use nosniff middleware
+2021-05-07 16:47:23,315 INFO 24341 [egg-security] use xssProtection middleware
+2021-05-07 16:47:23,316 INFO 24341 [egg-security] use dta middleware
+2021-05-07 16:47:23,316 INFO 24341 [egg-security] compose 6 middlewares into one security middleware
+2021-05-07 16:47:23,328 INFO 24341 [egg:core] dump config after load, 4ms
+2021-05-07 16:47:23,343 INFO 24341 [egg-watcher:application] watcher start success
+2021-05-07 16:47:23,351 INFO 24341 [egg:core] dump config after ready, 5ms
+2021-05-08 09:31:17,247 INFO 62914 [egg:logger] init all loggers with options: {"dir":"/Users/mac/Desktop/project/egg-vue-study/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-study-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-05-08 09:31:17,269 INFO 62914 [egg-multipart] stream mode enable
+2021-05-08 09:31:17,379 INFO 62914 [egg-static] starting static serve /public/ -> /Users/mac/Desktop/project/egg-vue-study/public
+2021-05-08 09:31:17,382 INFO 62914 [egg-security] use csrf middleware
+2021-05-08 09:31:17,383 INFO 62914 [egg-security] use methodnoallow middleware
+2021-05-08 09:31:17,384 INFO 62914 [egg-security] use noopen middleware
+2021-05-08 09:31:17,385 INFO 62914 [egg-security] use nosniff middleware
+2021-05-08 09:31:17,386 INFO 62914 [egg-security] use xssProtection middleware
+2021-05-08 09:31:17,386 INFO 62914 [egg-security] use dta middleware
+2021-05-08 09:31:17,386 INFO 62914 [egg-security] compose 6 middlewares into one security middleware
+2021-05-08 09:31:17,402 INFO 62914 [egg:core] dump config after load, 6ms
+2021-05-08 09:31:17,418 INFO 62914 [egg-watcher:application] watcher start success
+2021-05-08 09:31:17,424 INFO 62914 [egg:core] dump config after ready, 4ms

@@ -1,0 +1,26 @@
+2021-05-07 18:09:06,154 ERROR 24341 [-/192.168.0.123/-/4ms GET http://192.168.0.123:7001/admin/api/article/list] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:329:5)
+    at Function.byteLength (node:buffer:735:11)
+    at Object.get length [as length] (/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/app/extend/response.js:34:39)
+    at Object.length (/Users/mac/Desktop/project/egg-vue-study/node_modules/_delegates@1.0.0@delegates/index.js:72:24)
+    at Object.<anonymous> (/Users/mac/Desktop/project/egg-vue-study/app/middleware/access.js:25:27)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/mac/Desktop/project/egg-vue-study/node_modules/_co@4.6.0@co/index.js:65:19)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 24341
+hostname: merit.local
+
+2021-05-07 18:10:03,634 ERROR 24341 [-/192.168.0.123/-/1ms GET http://192.168.0.123:7001/admin/api/article/add] nodejs.TypeError: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received undefined
+    at new NodeError (node:internal/errors:329:5)
+    at Function.byteLength (node:buffer:735:11)
+    at Object.get length [as length] (/Users/mac/Desktop/project/egg-vue-study/node_modules/_egg@2.29.4@egg/app/extend/response.js:34:39)
+    at Object.length (/Users/mac/Desktop/project/egg-vue-study/node_modules/_delegates@1.0.0@delegates/index.js:72:24)
+    at Object.<anonymous> (/Users/mac/Desktop/project/egg-vue-study/app/middleware/access.js:25:27)
+    at Generator.next (<anonymous>)
+    at onFulfilled (/Users/mac/Desktop/project/egg-vue-study/node_modules/_co@4.6.0@co/index.js:65:19)
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 24341
+hostname: merit.local
+
